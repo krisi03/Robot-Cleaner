@@ -1,8 +1,6 @@
 # Robot cleaner
 Arduino uno car with vacuum
 
-![Лого/Визия на проекта](path_to_logo.png)
-
 Кратко описание на проекта - Arduino кола, която има функцията на прахосмукачка за дребни отпадъци. Също така е предвидено да не се удря в заобикалящи предмети.
 
 Необходими материали за направата на Robot Cleaner: 
@@ -10,12 +8,12 @@ Arduino uno car with vacuum
 2. Motor Driver(нашият е PKA03)
 3. Два gearmotor-a
 4. Две гуми
-5. Servo motor
+5. Ръчна mini прахосмукачка(нашата е от EMAG)
 6. Distance sensor(hc-sr04)
 7. Външна батерия 
 
 ### Инструкции за сваляне
-1) Отворете следната връзка : https://github.com/krisi03/Vacuumcleaner.git
+1) Отворете следната връзка : https://github.com/krisi03/Robot-Cleaner.git
 2) Изберете зеления бутон "Code"
 3) Избирате "Download ZIP"
 
@@ -38,3 +36,4 @@ Arduino uno car with vacuum
 **Ивана Вълева** - хардуерист и дизайнер - IvanaValeva (https://github.com/IvanaValeva)
 
 П.С. Вярвайте, че няма невъзможни неща! И непременно си купете поялник с регулираща се температура! ;)
+
